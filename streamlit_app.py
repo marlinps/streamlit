@@ -7,7 +7,7 @@ house = pd.read_csv('house_clean.csv', usecols=['id','price'])
 
 def main() : 
   ##### Untuk olah text
-  st.header('Halaman Streamlit Dwi A')
+  st.header('Halaman Streamlit Marlin')
   st.subheader('This is SubHeader')
   st.markdown('# Rendering Markdown ')
   st.write('Some Phytagorean Equation : ')
